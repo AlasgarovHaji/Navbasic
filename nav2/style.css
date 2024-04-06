@@ -39,18 +39,21 @@
 
 .circleSelect {
     border: 2px solid #000;
+    transition: 2s all;
 }
 
 .line {
-    width: 50px;
+    
     border-top: 3px solid #c3c3c3;
     transition: 1s all;
     width: 10px;
+    transition: 2s all;
 }
 
 .lineSelect {
     border-top: 3px solid #000;
     width: 50px;
+    transition: 1s all;
 }
 
 .buttons {
