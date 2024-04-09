@@ -45,7 +45,6 @@
 .line {
     
     border-top: 3px solid #c3c3c3;
-    transition: 1s all;
     width: 10px;
     transition: 2s all;
 }
